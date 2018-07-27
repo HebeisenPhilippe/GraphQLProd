@@ -8,7 +8,7 @@
     "json:server": "json-server --watch db.json",
     "dev":"nodemon server.js"
   },
-  "author": "",
+  "author": "HebeisenPhilippe",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.18.0",
